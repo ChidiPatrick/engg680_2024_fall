@@ -1,18 +1,3 @@
-<style>
-  table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-  }
-  th, td {
-    padding: 10px;
-    text-align: center; 
-  }
-  caption {
-    caption-side: top;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-</style>
 <table border="1" cellpadding="5" cellspacing="0">
 <caption>Group Members Name and UCID</caption>
 
